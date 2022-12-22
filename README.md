@@ -9,7 +9,7 @@ My portfolio https://superb-blini-be773c.netlify.app
 
 My linkedin https://www.linkedin.com/in/anu-priya-54a999217/
 
-My Resume https://drive.google.com/file/d/1jDs6UEDdGjOjIcpXaoUv0MVi0_oUl6FB/view?usp=share_link
+My Resume https://drive.google.com/file/d/1VXg_Iaw5hlnl7qrOkHlD0FTwraLI1x1V/view?usp=share_link
 
 My email anupriyasinha0408@gmail.com
 
