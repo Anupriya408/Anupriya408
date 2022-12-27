@@ -7,7 +7,7 @@ Software professional with expertise in MERN technology, HTML, CSS, JavaScript, 
 
 Hobbies:- spending time with family, reading books, travelling.
 
-My portfolio https://superb-blini-be773c.netlify.app 
+My portfolio https://anupriya-github-io.netlify.app/
 
 My linkedin https://www.linkedin.com/in/anu-priya-54a999217/
 
