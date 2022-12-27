@@ -5,7 +5,7 @@ Aspiring Full-stack Web Developer at Masai School
 
 Software professional with expertise in MERN technology, HTML, CSS, JavaScript, and experienced in solving Dsa problems. Looking forward to being a part of an organization that allows constant learning and development of my technical and management skills. Experienced in working on various projects through remote collaboration.
 
-My portfolio https://superb-blini-be773c.netlify.app
+My portfolio https://superb-blini-be773c.netlify.app 
 
 My linkedin https://www.linkedin.com/in/anu-priya-54a999217/
 
