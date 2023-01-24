@@ -27,7 +27,11 @@
 <img width ="75px" height="75px"  src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png">
 </div>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anupriya408&show_icons=true&locale=en&layout=compact" alt="Anupriya408" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anupriya408&show_icons=true&locale=en" alt="Anupriya408" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anupriya408&" alt="Anupriya408" /></p>
 Anupriya408/Anupriya408 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
