@@ -2,7 +2,7 @@
 <h3> 👀 I’m interested in Coding</h3>
 <h3> 🌱 My curiosity helps me give my best on every project I take, it helps me in keeping up with new technologies, learning new skills, and always coming up with a new approach to a problem.</h3>
 
-<img src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
+<img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47413dgud3pe36f8eqd1vbb1wcksh7nkv5o86hqtac&rid=200.webp&ct=g">
 
 <h2>More About me</h2>
 <h3>💼 Self Motivated Person</h3>
@@ -12,8 +12,8 @@
 <h3>📫 Reach Me</h3>
 <h4>anupriyasinha0408@gmail.com<h4>
 <a href="https://www.linkedin.com/in/anu-priya-54a999217/">LinkedIn</a>
-<a href="https://drive.google.com/file/d/1VXg_Iaw5hlnl7qrOkHlD0FTwraLI1x1V/view?usp=share_link">My Resume</a>
-<a href="https://anupriya-github-io.netlify.app/">My Portfolio</a>
+<a href="https://drive.google.com/file/d/1VXg_Iaw5hlnl7qrOkHlD0FTwraLI1x1V/view?usp=share_link">Resume</a>
+<a href="https://anupriya-github-io.netlify.app/">Portfolio</a>
 
 <h2>🛠 Languages & Tools</h2>
 <div style="display:flex">
