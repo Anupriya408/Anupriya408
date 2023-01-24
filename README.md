@@ -10,7 +10,7 @@
 <h3>💬 Ask me about MERN I'm happy to tell</h3>
 <h3>⚡ Hobbies : Riding Bike, 😄 watching Web-Series</h3>
 <h3>📫 Reach Me</h3>
-<h4>harsh790909@gmail.com<h4>
+<h4>anupriyasinha0408@gmail.com<h4>
 <a href="www.linkedin.com/in/harsh-anand-750510234">LinkedIn</a>
 
 <h2>🛠 Languages & Tools</h2>
