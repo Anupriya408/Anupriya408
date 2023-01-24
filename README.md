@@ -29,9 +29,7 @@
 
   
   
-<img align="center" src="https://camo.githubusercontent.com/e9db6dd90edba72fa2abeb03c1426028eb9446a1a82a8cec544a7c819f3575b0/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d68696d616e677368756d616861746f38322673686f775f69636f6e733d74727565266c6f63616c653d656e" alt="Anupriya408" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Anupriya408&amp;show_icons=true&amp;locale=en" style="max-width: 100%;">
-
-<!---
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e9db6dd90edba72fa2abeb03c1426028eb9446a1a82a8cec544a7c819f3575b0/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d68696d616e677368756d616861746f38322673686f775f69636f6e733d74727565266c6f63616c653d656e"><img align="center" src="https://camo.githubusercontent.com/e9db6dd90edba72fa2abeb03c1426028eb9446a1a82a8cec544a7c819f3575b0/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d68696d616e677368756d616861746f38322673686f775f69636f6e733d74727565266c6f63616c653d656e" alt="Anupriya408" style="max-width: 100%;"></a>
 Anupriya408/Anupriya408 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
