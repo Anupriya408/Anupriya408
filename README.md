@@ -8,10 +8,12 @@
 <h3>💼 Proficient in MERN Technologies</h3>
 <h3>👯 Looking to collaborate on more Projects</h3>
 <h3>💬 Ask me about MERN I'm happy to tell</h3>
-<h3>⚡ Hobbies : Riding Bike, 😄 watching Web-Series</h3>
+<h3>⚡ Hobbies : Reading Books, Travelling</h3>
 <h3>📫 Reach Me</h3>
 <h4>anupriyasinha0408@gmail.com<h4>
-<a href="www.linkedin.com/in/harsh-anand-750510234">LinkedIn</a>
+<a href="https://www.linkedin.com/in/anu-priya-54a999217/">LinkedIn</a>
+<a href="https://drive.google.com/file/d/1VXg_Iaw5hlnl7qrOkHlD0FTwraLI1x1V/view?usp=share_link">My Resume</a>
+<a href="https://anupriya-github-io.netlify.app/">My Portfolio</a>
 
 <h2>🛠 Languages & Tools</h2>
 <div style="display:flex">
