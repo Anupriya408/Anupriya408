@@ -1,6 +1,6 @@
 <h1> 👋 Hi, I’m AnuPriya</h1>
-<h3> 👀 I’m interested in Coding</h3>
-<h3> 🌱 My curiosity helps me give my best on every project I take, it helps me in keeping up with new technologies, learning new skills, and always coming up with a new approach to a problem.</h3>
+<h2> 👀 I’m interested in Coding</h2>
+<h2> 🌱 My curiosity helps me give my best on every project I take, it helps me in keeping up with new technologies, learning new skills, and always coming up with a new approach to a problem.</h2>
 
 <img src="https://camo.githubusercontent.com/5ff9182d12e799168a3bb67b88df7388ae08ede3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966">
 
@@ -27,7 +27,7 @@
 <img width ="75px" height="75px"  src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png">
 </div>
 
-<img align="center" src="https://camo.githubusercontent.com/e9db6dd90edba72fa2abeb03c1426028eb9446a1a82a8cec544a7c819f3575b0/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d68696d616e677368756d616861746f38322673686f775f69636f6e733d74727565266c6f63616c653d656e" alt="Anupriya408" style="max-width: 100%;"></a>
+
 Anupriya408/Anupriya408 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
