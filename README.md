@@ -36,13 +36,13 @@ currently persuing: Full Stack Development course from Masai School
 
 education:
   [
-    "Master's in Computer Science",
-    "Bachelor's in Computer Science"
+    "Master's in Computer Application",
+    "Bachelor's in Computer Application"
   ]
   
   contact_info:
   [
-  "email": "anupriyasinha0408@@gmail.com
+  "email": "anupriyasinha0408@gmail.com
   ]
 
 fields_of_interests:
